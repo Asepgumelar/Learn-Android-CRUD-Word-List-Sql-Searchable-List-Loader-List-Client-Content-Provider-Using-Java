@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">List_Client</string>
+    <string name="hint_word">New Word...</string>
+    <string name="button_save">Save</string>
+    <string name="button_edit">Edit</string>
+    <string name="button_delete">Delete</string>
+    <string name="error_no_word">ERROR: NO WORD</string>
+    <string name="empty_word_not_saved">Word not saved because it is empty.</string>
+    <string name="not_deleted">Not deleted</string>
+</resources>
